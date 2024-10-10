@@ -683,5 +683,17 @@ export const products = [
         rate: 4,
         quantity: 26
     },
-    
+    {
+        id: 'aaq11907gbfc1',
+        title: 'Acer F15',
+        price: 1700,
+        category: 'Laptops',
+        description: 'Acer Inspiron 5620 Laptop 16" pantalla no táctil gris, platino plateado. i7 i7-1255U Procesador de diez núcleos 3.5GHz (4.7GHz con Turbo Boost). Disco duro SSD de 1 TB y memoria RAM de 16 GB; Resolución FHD+ de 1920 x 1200 no táctil con una cámara web integrada y un chip gráfico integrado. Wifi inalámbrico y Bluetooth. Windows 11 Home',
+        images: ['https://m.media-amazon.com/images/I/71apyh-m2KL._AC_SL1410_.jpg', 'https://m.media-amazon.com/images/I/71yFFHtNMbL._AC_SL1311_.jpg', 'https://m.media-amazon.com/images/I/718qe4eC6fL._AC_SL1277_.jpg'],
+        banner: 'https://res.cloudinary.com/silviajcn/image/upload/v1683660440/Productos%20Amazonas/ab_a7jqrs.jpg',
+        brand: 'Acer',
+        rate: 5,
+        quantity: 26
+    },
+
 ]

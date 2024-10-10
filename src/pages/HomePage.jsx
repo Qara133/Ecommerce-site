@@ -26,7 +26,7 @@ export const HomePage = () => {
 
     return (
         <Layout>
-            <h1 className='mb-5 font-bold text-4xl'>Shop</h1>
+            <h1 className='mb-5 font-bold text-4xl'>Products</h1>
             
             <form className='w-1/2 mb-8'>
                 <input
@@ -37,7 +37,7 @@ export const HomePage = () => {
                 />
             </form>
 
-            <div className='grid gap-4 grid-cols-4 w-full max-w-screen-lg'>
+            <div className='grid grid-cols-1 gap-4 p-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5'>
                 {
                     renderView()
                 }   
